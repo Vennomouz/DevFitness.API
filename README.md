@@ -1,7 +1,7 @@
 # DevFitness.API
 API desenvolvida durante o curso Jornada .NET Direto ao Ponto
 
-## Neste projeto foram abordados os seguintes conceitos:
+## Neste projeto foram abordados os seguintes assuntos:
 * Programação orientada a objetos;
 * Funções Lambda;
 * Consultas LINQ;
